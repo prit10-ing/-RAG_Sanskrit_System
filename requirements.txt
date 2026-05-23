@@ -1,0 +1,12 @@
+
+langchain-community
+langchain
+langchain_ollama
+langchain_chroma
+pypdf
+sentence-transformers 
+streamlit
+langchain-huggingface
+huggingface_hub
+python-dotenv
+psutil
